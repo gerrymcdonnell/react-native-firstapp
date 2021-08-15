@@ -2,7 +2,8 @@
   "expo": {
     "name": "MyFirstReactNativeApp",
     "slug": "firstapp",
-    "privacy": "publ
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
     "platforms": [
       "ios",
       "android",
@@ -26,14 +27,4 @@
       "supportsTablet": true
     }
   }
-}
-tsTablet": true
-    }
-  }
-}blet": true
-    }
-  }
-}let": true
-    }
-  }
-}
+} 
